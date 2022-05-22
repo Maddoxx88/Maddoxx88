@@ -14,23 +14,25 @@
 
 ### About:
 
-- 🔭 I’m currently working on **IoT projects**
+- 🔭 I’m currently working on **Projects which can help even a small group of people**
 
-- 🌱 I’m currently learning **Gatsby, Vue**
+- 🌱 I’m currently learning **Web3, Backend frameworks**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
-- 🤝 I’m looking for help with **Vue**
+- 🧑‍💻 Open to peer-coding on Leetcode or any other platform. 
+
+- 🤝 I’m looking for help with [**Remix**](https://remix.run) and [**Go**](https://go.dev/)
 
 - 👨‍💻 All of my projects are available at [https://maddoxx88.github.io/](https://maddoxx88.github.io/)
 
-- 📝 I write articles on [https://medium.com/@sunitshirke88](https://medium.com/@sunitshirke88)
+- 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
 
-- 💬 Ask me about **Flutter, Blockchain, Technical blogs**
+- 💬 Ask me about **Flutter, Blockchain and Minimal UX Design**
 
-- 📫 How to reach me [**sunitshirke_88**][twitter]
+- 📫 Ping me [**here**](https://twitter.com/messages/compose)
 
-- ⚡ Interests - **Astralis/csgo, [UCL, LaLiga, EPL, Bundesliga]/football, India/cricket**
+- ⚡ Interests - **Esports, Football, Finance, Cricket**
 
 ---
 
