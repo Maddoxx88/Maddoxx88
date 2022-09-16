@@ -14,13 +14,13 @@
 
 ### About:
 
-- 🔭 I’m currently working on **Projects which can help even a small group of people**
+- 🔭 I’m currently working on ** developing open-source projects which target a specific audience. **
 
-- 🌱 I’m currently learning **Web3, Backend frameworks**
+- 🌱 I’m currently learning **Web3, SSR and UX Design.**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
-- 🧑‍💻 Open to peer-coding on Leetcode or any other platform. 
+- 🧑‍💻 Open to peer-coding on Leetcode and Codeforces. 
 
 - 🤝 I’m looking for help with [**Remix**](https://remix.run) and [**Go**](https://go.dev/)
 
