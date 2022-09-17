@@ -22,13 +22,13 @@
 
 - 🧑‍💻 Open to peer-coding on Leetcode and Codeforces. 
 
-- 🤝 I’m looking for help with [**Remix**](https://remix.run) and [**Go**](https://go.dev/)
+- 🤝 I’m looking for help with managing multiple open source projects.
 
 - 👨‍💻 All of my projects are available at [https://maddoxx88.github.io/](https://maddoxx88.github.io/)
 
 - 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
 
-- 💬 Ask me about **Flutter, Blockchain and Minimal UX Design**
+- 💬 Ask me about **Flutter, Blockchain and **
 
 - 📫 Ping me [**here**](https://twitter.com/messages/compose)
 
