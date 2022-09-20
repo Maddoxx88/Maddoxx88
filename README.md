@@ -14,7 +14,7 @@
 
 ### About:
 
-- 🔭 I’m currently working on ** developing open-source projects which target a specific audience. **
+- 🔭 I’m currently working on **developing open-source projects which target a specific audience.**
 
 - 🌱 I’m currently learning **Web3, SSR and UX Design.**
 
