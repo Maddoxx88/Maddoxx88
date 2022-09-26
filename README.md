@@ -14,21 +14,21 @@
 
 ### About:
 
-- 🔭 I’m currently working on **developing open-source projects which target a specific audience.**
+- 🔭 I’m currently working on **developing open-source projects which target a specific audience**
 
-- 🌱 I’m currently learning **Web3, SSR and UX Design.**
+- 🌱 I’m currently learning **Web3, SSR and UX Design**
 
-- 👯 I’m looking to collaborate on **Full-stack projects**
+- 💥 I’m looking to collaborate on **Full stack projects**
 
-- 🧑‍💻 Open to peer-coding on Leetcode and Codeforces. 
+- 🧑‍💻 Open to peer-coding on Leetcode and Codeforces 
 
-- 🤝 I’m looking for help with managing multiple open source projects.
+- 🤝 I’m looking for help with managing multiple open source projects
 
 - 👨‍💻 All of my projects are available at [https://maddoxx88.github.io/](https://maddoxx88.github.io/)
 
 - 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
 
-- 💬 Ask me about **Flutter, Blockchain and **
+- 💬 Ask me about **Flutter, Blockchain and Framer**
 
 - 📫 Ping me [**here**](https://twitter.com/messages/compose)
 
