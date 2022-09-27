@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Flutter, Blockchain and Framer**
 
-- 📫 Ping me [**here**](https://twitter.com/messages/compose)
+- 📫 Ping me [**here**](https://twitter.com/messages/2489665098-2489665098?text=)
 
 - ⚡ Interests - **Esports, Football, Finance, Cricket**
 
