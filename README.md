@@ -32,7 +32,7 @@
 
 - 📫 Ping me [**here**](https://twitter.com/sunitshirke)
 
-- ⚡ Interests - **Esports, Football, Finance, Cricket**
+- ⚡ Interests - **Football, Esports, Finance, Cricket**
 
 ---
 
