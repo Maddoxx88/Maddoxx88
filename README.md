@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **developing open-source projects which target a specific audience**
 
-- 🌱 I’m currently learning **Web3, dApps, SSR and UX Design**
+- 🌱 I’m currently learning **Web3, SSR, Personal Finance and UX Design**
 
 - 💥 I’m looking to collaborate on **Full stack projects**
 
