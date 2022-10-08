@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Web3, SSR, Personal Finance and UX Design**
 
-- 💥 I’m looking to collaborate on **Full stack projects**
+- 💥 I’m looking to collaborate on **Open Source projects**
 
 - 🧑‍💻 Open to peer-coding on Leetcode and Codeforces 
 
