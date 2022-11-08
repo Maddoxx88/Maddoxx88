@@ -41,6 +41,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maddoxx88&hide=%5B%22issues%22%5D&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&line_height=48&show_icons=true" />
 </details>
 
+---
+
+[![@maddoxx88's Holopin board](https://holopin.me/maddoxx88)](https://holopin.io/@maddoxx88)
 
 [linkedin]: https://www.linkedin.com/in/sunitshirke/
 [medium]: https://medium.com/@sunitshirke88
