@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **developing open-source projects based on Gen AI**
 
-- 🌱 I’m currently learning **Web3, Golang, Personal Finance and UX Design**
+- 🌱 I’m currently learning **Web3, Golang, ML and AGI**
 
 - 💥 I’m looking to collaborate on **Open Source projects**
 
