@@ -14,9 +14,9 @@
 
 ### About:
 
-- 🔭 I’m currently working on **developing open-source projects based on Gen AI**
+- 🔭 I’m currently working on **developing fun open-source projects**
 
-- 🌱 I’m currently learning **Web3, Golang, ML and AGI**
+- 🌱 I’m currently learning **Web3, Golang, ML**
 
 - 💥 I’m looking to collaborate on **Open Source projects**
 
