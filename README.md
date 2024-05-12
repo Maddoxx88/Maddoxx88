@@ -28,8 +28,6 @@
 
 - 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
 
-- 💬 Ask me about **Flutter, Blockchain and Framer**
-
 - 📫 Ping me [**here**](https://twitter.com/sunitshirke)
 
 - ⚡ Interests - **Football, Esports, Finance, Cricket**
