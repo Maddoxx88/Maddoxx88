@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **developing fun open-source projects**
 
-- 🌱 Learning **Web3, Golang, ML and LLMs**
+- 🌱 Learning **Web3, Golang, Rust, ML and LLMs**
 
-- 💥 Looking to collaborate on **Open Source projects**
+- 💥 Looking to collaborate on **Open Source projects** (specifically on go and rust)
 
 - 🧑‍💻 Open to peer-coding on Leetcode and Codeforces 
 
