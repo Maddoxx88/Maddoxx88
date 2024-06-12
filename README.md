@@ -24,8 +24,6 @@
 
 - 🤝 I’m looking for help with managing multiple open source projects
 
-- 👨‍💻 All of my projects are available at [https://maddoxx88.github.io/](https://maddoxx88.github.io/)
-
 - 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
 
 - 📫 Ping me [**here**](https://twitter.com/sunitshirke)
