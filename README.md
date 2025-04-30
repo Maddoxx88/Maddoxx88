@@ -1,12 +1,10 @@
 ### Hello 👋
 <img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/Portfolio%20Design%20GitHub 2.png" />
 
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/linkedin-icon.png" width="48" />][linkedin]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/medium-icon.png" width="52" />][medium]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/dribbble-icon.png" width="52" />][dribbble]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/twitter-icon.png" width="52" />][twitter]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/youtube-icon.png" width="52" />][youtube]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/instagram-icon.png" width="52" />][instagram]
+[<img align="left" src="https://framerusercontent.com/images/RYuwqCxHlxrSfIOO7JZreY9YX9Q.png" width="48" />][linkedin]
+[<img align="left" src="https://framerusercontent.com/images/uMA164Althqj1b2vXygS2wyBIgQ.png" width="52" />][dribbble]
+[<img align="left" src="https://framerusercontent.com/images/8yvYtcx3cfJFOTpz7A4hI9AtiI.png" width="52" />][twitter]
+[<img align="left" src="https://framerusercontent.com/images/qyHjNFaKZK3J0IgI963dEUUJ4.png" width="52" />][instagram]
 <br />
 <br />
 <br />
@@ -42,8 +40,6 @@
 [![@maddoxx88's Holopin board](https://holopin.me/maddoxx88)](https://holopin.io/@maddoxx88)
 
 [linkedin]: https://www.linkedin.com/in/sunitshirke/
-[medium]: https://medium.com/@sunitshirke88
-[dribbble]: https://dribbble.com/sunit_shirke
-[twitter]: https://twitter.com/sunitshirke_88
-[youtube]: https://www.youtube.com/channel/UC4yM7YN7-8W7AVRBsZzj5vg
-[instagram]: https://www.instagram.com/sunit_shirke/
+[dribbble]: https://dribbble.com/sunitshirke
+[twitter]: https://twitter.com/sunitshirke
+[instagram]: https://www.instagram.com/sunitshirke/
