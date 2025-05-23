@@ -12,7 +12,7 @@
 
 ### About:
 
-- 🔭 I’m currently working on **developing fun open-source projects**
+- 🔭 I’m currently working on **developing fun and useful open-source projects**
 
 - 🌱 Learning **Golang, RPC, ML, and LLMs**
 
