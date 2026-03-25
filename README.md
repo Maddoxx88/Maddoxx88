@@ -16,7 +16,7 @@
 
 - 🌱 Learning **Golang, Rust, Ruby on Rails, and LLMs**
 
-- 💥 Looking to collaborate on **Open Source projects** (specifically on go and rust)
+- 💥 Looking to collaborate on **Open Source projects** (specifically on go, rust and AI agents)
 
 - 🧑‍💻 Open to peer-coding on Leetcode and Codeforces 
 
