@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with managing multiple open source projects
 
-- 📝 I write articles on [Medium](https://sunitshirke.medium.com/) and [Hashnode](https://sunitshirke.hashnode.dev/)
+- 📝 I write articles on [Medium](https://sunitshirke.medium.com/)
 
 - 📫 Ping me [**here**](https://twitter.com/sunitshirke)
 
